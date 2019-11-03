@@ -1,7 +1,8 @@
-package com.asad.tvmazemvvm
+package com.asad.tvmazemvvm.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.asad.tvmazemvvm.R
 
 class MainActivity : AppCompatActivity() {
 

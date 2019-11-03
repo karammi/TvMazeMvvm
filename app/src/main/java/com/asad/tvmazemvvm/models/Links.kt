@@ -1,10 +1,8 @@
 package com.asad.tvmazemvvm.models
 
-import android.provider.Settings
-
 data class Links(
-    var self:Link,
-    var previousepisode:Link
+    var self: Link,
+    var previousepisode: Link
 )
 
 data class Link(
